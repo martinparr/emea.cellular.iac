@@ -2,9 +2,7 @@
 ! Last configuration change at 09:53:34 UTC Mon Jul 9 2018 by aberry
 !
 version 15.5
-service timestamps debug datetime msec
-service timestamps log datetime msec
-no platform punt-keepalive disable-kernel-core
+
 !
 hostname CIN.NAT.ASR.1
 !
